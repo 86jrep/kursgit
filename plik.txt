@@ -1,3 +1,0 @@
-My first file
-Pierwsza zmiana (domyślny edytor)
-Druga zmiana (commit)
